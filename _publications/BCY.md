@@ -8,11 +8,7 @@ venue: 'arXiv Preprint'
 paperurl: 'https://arxiv.org/abs/2203.06573'
 citation: ' '
 ---
-[//]: # (This paper is about the number 1. The number 2 is left for future work.)
 
-[Download paper here](https://arxiv.org/pdf/2203.06573)
-
-[//]: # (Recommended citation: Your Name, You. 2009. "Paper Title Number 1." <i>Journal 1</i>. 11)
 
 
 
