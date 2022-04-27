@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Finance (Minor in Statistics), Xiamen University, 2013
-* M.S. in Actuarial Studies, The Australian National University, 2015
+* Bachelor of Economics: Major in Finance, Minor in Statistics, Xiamen University, 2013
+* Master of Actuarial Studies, The Australian National University, 2015
 * Ph.D in Statistics, The Australian National University, 2021
 
 Work experience
