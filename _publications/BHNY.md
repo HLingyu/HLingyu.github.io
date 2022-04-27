@@ -1,7 +1,7 @@
 ---
 title: "Spiked eigenvalues of high-dimensional sample autocovariance matrices: CLT and applications"
 collection: publications
-permalink: /publication/BSYZ
+permalink: /publication/BHNY
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022
 venue: 'arXiv Preprint'
