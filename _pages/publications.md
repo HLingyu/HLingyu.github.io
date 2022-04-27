@@ -21,9 +21,11 @@ author_profile: true
 
 Preprints
 ======
-* Bachelor of Economics: Major in Finance, Minor in Statistics, Xiamen University, 2013
-* Master of Actuarial Studies, The Australian National University, 2015
-* Ph.D in Statistics, The Australian National University, 2021
+Homogeneity and Sub-homogeneity Pursuit: Iterative Complement Clustering PCA, 2022, arXiv, https://arxiv.org/abs/2203.06573
+
+Spiked eigenvalues of high-dimensional sample autocovariance matrices: CLT and applications, 2022, arXiv, https://arxiv.org/abs/2201.03181
+
+AR-sieve Bootstrap for High-dimensional Time Series, 2021, arXiv, https://arxiv.org/abs/2112.00414
 
 Publications
 ======
