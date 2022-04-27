@@ -2,11 +2,11 @@
 title: "AR-sieve Bootstrap for High-dimensional Time Series"
 collection: publications
 permalink: /publication/BSYZ
-excerpt: '..'
+excerpt: ' '
 date: 2021-12-01
 venue: 'arXiv Preprint'
 paperurl: 'https://arxiv.org/abs/2112.00414'
-citation: '..'
+citation: ' '
 ---
 [//]: # (This paper is about the number 1. The number 2 is left for future work.)
 
