@@ -21,7 +21,7 @@ Work experience
 * 2020~2021: Associate Lecturer at The Australian National University
 
 
-Publications
+Publications and preprints
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
