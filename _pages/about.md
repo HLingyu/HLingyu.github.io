@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Dr. Daning Bi's home on the web!
-
 I am an assistant professor at Hunan University. My research interest includes high-dimensional statistics, time series analysis, statistical inference and actuarial data analysis. 
