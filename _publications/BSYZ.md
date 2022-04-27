@@ -10,4 +10,3 @@ citation: 'Bi, D., Shang, H. L., Yang, Y., & Zhu, H. (2021). AR-sieve Bootstrap 
 ---
 [Download paper here](https://arxiv.org/pdf/2112.00414)
 
-Recommended citation: Bi, D., Shang, H. L., Yang, Y., & Zhu, H. (2021). AR-sieve Bootstrap for High-dimensional Time Series. arXiv preprint arXiv:2112.00414.
