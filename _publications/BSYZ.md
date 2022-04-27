@@ -6,10 +6,8 @@ excerpt: ' '
 date: 2021-12-01
 venue: 'arXiv Preprint'
 paperurl: 'https://arxiv.org/abs/2112.00414'
-citation: ' '
+citation: 'Bi, D., Shang, H. L., Yang, Y., & Zhu, H. (2021). AR-sieve Bootstrap for High-dimensional Time Series. arXiv preprint arXiv:2112.00414.'
 ---
-[//]: # (This paper is about the number 1. The number 2 is left for future work.)
-
 [Download paper here](https://arxiv.org/pdf/2112.00414)
 
-[//]: # (Recommended citation: Your Name, You. 2009. "Paper Title Number 1." <i>Journal 1</i>. 11.) 
+Recommended citation: Bi, D., Shang, H. L., Yang, Y., & Zhu, H. (2021). AR-sieve Bootstrap for High-dimensional Time Series. arXiv preprint arXiv:2112.00414.
