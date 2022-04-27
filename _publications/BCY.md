@@ -10,5 +10,3 @@ citation: 'Bi, D., Chang, L., & Yang, Y. (2022). Homogeneity and Sub-homogeneity
 ---
 [Download paper here](https://arxiv.org/pdf/2203.06573)
 
-Recommended citation: Bi, D., Chang, L., & Yang, Y. (2022). Homogeneity and Sub-homogeneity Pursuit: Iterative Complement Clustering PCA. arXiv preprint arXiv:2203.06573.
-
