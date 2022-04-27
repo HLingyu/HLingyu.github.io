@@ -3,7 +3,7 @@ title: "Spiked eigenvalues of high-dimensional sample autocovariance matrices: C
 collection: publications
 permalink: /publication/BHNY
 excerpt: '.'
-date: 2022
+date: 2022-02-01
 venue: 'arXiv Preprint'
 paperurl: 'https://arxiv.org/abs/2201.03181'
 citation: '.'
