@@ -2,11 +2,11 @@
 title: "Homogeneity and Sub-homogeneity Pursuit: Iterative Complement Clustering PCA"
 collection: publications
 permalink: /publication/BCY
-excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2022-03-01
 venue: 'arXiv Preprint'
 paperurl: 'https://arxiv.org/abs/2203.06573'
-citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: ''
 ---
 [//]: # (This paper is about the number 1. The number 2 is left for future work.)
 
