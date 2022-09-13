@@ -20,9 +20,14 @@ Work experience
 * 2021~now: Assistant Professor at Hunan University
 * 2020~2021: Associate Lecturer at The Australian National University
 
+Research projects
+======
+PI: National Science Foundation of China, 72201093, 'Forecasting and inference for high-dimensional time series', 2023.01-2025.12
 
 Publications and preprints
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+  
