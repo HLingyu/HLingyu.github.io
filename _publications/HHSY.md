@@ -5,8 +5,8 @@ permalink: /publication/HHSY
 excerpt: ' '
 date: 2021-05-01
 venue: 'Insurance: Mathematics and Economics'
-paperurl: '10.1016/j.insmatheco.2021.01.006'
-citation: 'He, L.,Huang, F., Shi, J., Yang, Y., Mortality forecasting using factor models: Time-varying or time-invariant factor loadings?,
+paperurl: 'https://doi.org/10.1016/j.insmatheco.2021.01.006'
+citation: 'He, L., Huang, F., Shi, J., & Yang, Y., Mortality forecasting using factor models: Time-varying or time-invariant factor loadings?,
 Insurance: Mathematics and Economics,
 Volume 98,
 2021,
