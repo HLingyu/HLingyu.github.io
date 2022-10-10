@@ -3,7 +3,7 @@ title: "Mortality Forecasting using Factor Models: Time-varying or Time-invarian
 collection: publications
 permalink: /publication/HHSY
 excerpt: ' '
-date: 2021-05
+date: 2021-05-01
 venue: 'Insurance: Mathematics and Economics'
 paperurl: '10.1016/j.insmatheco.2021.01.006'
 citation: 'He, L.,Huang, F., Shi, J., Yang, Y., Mortality forecasting using factor models: Time-varying or time-invariant factor loadings?,
