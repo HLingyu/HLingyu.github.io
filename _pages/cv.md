@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Bachelor of Economics: Major in Finance, Minor in Statistics, Xiamen University, 2013
-* Master of Applied Statistics, Beijing Normal University, 2015
 * Ph.D in Statistics, The Australian National University, 2020
+* Master of Applied Statistics, Beijing Normal University, 2015
+* Bachelor of Economics: Major in Finance, Minor in Statistics, Xiamen University, 2013
 
 Work experience
 ======
