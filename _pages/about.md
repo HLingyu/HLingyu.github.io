@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor at Hunan University. My research interest includes high-dimensional statistics, time series analysis, statistical inference and actuarial data analysis. 
+I am an assistant professor at Hunan University. My research interest includes high-dimensional statistics, statistical modeling and actuarial data analysis. 
