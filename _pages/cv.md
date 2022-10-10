@@ -12,17 +12,13 @@ redirect_from:
 Education
 ======
 * Bachelor of Economics: Major in Finance, Minor in Statistics, Xiamen University, 2013
-* Master of Actuarial Studies, The Australian National University, 2015
-* Ph.D in Statistics, The Australian National University, 2021
+* Master of Applied Statistics, Beijing Normal University, 2015
+* Ph.D in Statistics, The Australian National University, 2020
 
 Work experience
 ======
-* 2021~now: Assistant Professor at Hunan University
-* 2020~2021: Associate Lecturer at The Australian National University
+* 2020~now: Assistant Professor at Hunan University
 
-Research projects
-======
-PI: National Science Foundation of China, 72201093, 'Forecasting and inference for high-dimensional time series', 2023.01-2025.12
 
 Publications and preprints
 ======
