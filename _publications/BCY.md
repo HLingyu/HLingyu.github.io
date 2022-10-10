@@ -1,12 +1,12 @@
 ---
-title: "Homogeneity and Sub-homogeneity Pursuit: Iterative Complement Clustering PCA"
+title: "A Forecast-driven Hierarchical Factor Model with Application to Mortality Data"
 collection: publications
-permalink: /publication/BCY
+permalink: /publication/HHY
 excerpt: ' '
-date: 2022-03-01
+date: 2021-12-09
 venue: 'arXiv preprint'
-paperurl: 'https://arxiv.org/abs/2203.06573'
-citation: 'Bi, D., Chang, L., & Yang, Y. (2022). Homogeneity and Sub-homogeneity Pursuit: Iterative Complement Clustering PCA. arXiv preprint arXiv:2203.06573.'
+paperurl: 'https://arxiv.org/abs/2102.04123'
+citation: 'He, L., Huang, F., & Yang, Y. (2021). A Forecast-driven Hierarchical Factor Model with Application to Mortality Data. arXiv preprint arXiv:2102.04123.'
 ---
-[Download paper here](https://arxiv.org/pdf/2203.06573)
+[Download paper here](https://arxiv.org/pdf/2102.04123)
 
