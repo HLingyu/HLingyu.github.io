@@ -11,9 +11,9 @@ title                    : "Dr. Lingyu HE"
 title_separator          : "-"
 name                     : &name "Dr. Lingyu HE"
 description              : &description "Assistant Professor at Hunan University"
-url                      : https://helingyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hlingyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "helingyu.github.io"
+repository               : "hlingyu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
