@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Daning Bi"
+title                    : "Dr. Lingyu HE"
 title_separator          : "-"
-name                     : &name "Dr. Daning Bi"
+name                     : &name "Dr. Lingyu HE"
 description              : &description "Assistant Professor at Hunan University"
-url                      : https://bidaning.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://helingyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "bidaning.github.io"
+repository               : "helingyu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Daning Bi"
+  name             : "Dr. Lingyu HE"
   avatar           : "profile.png"
   bio              : "Assistant Professor at Hunan University"
   location         : "Changsha, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "daningbi#hnu.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Daning-Bi"
+  email            : "helingyu#hnu.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Lingyu-He-4"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "bidaning"
+  github           : "HLingyu"
   google_plus      :
   keybase          :
   instagram        :
