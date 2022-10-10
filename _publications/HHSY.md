@@ -6,7 +6,7 @@ excerpt: ' '
 date: 2021-05
 venue: 'Insurance: Mathematics and Economics'
 paperurl: '10.1016/j.insmatheco.2021.01.006'
-citation: 'Lingyu He, Fei Huang, Jianjie Shi, Yanrong Yang, Mortality forecasting using factor models: Time-varying or time-invariant factor loadings?,
+citation: 'He, L.,Huang, F., Shi, J., Yang, Y., Mortality forecasting using factor models: Time-varying or time-invariant factor loadings?,
 Insurance: Mathematics and Economics,
 Volume 98,
 2021,
